@@ -18,9 +18,12 @@
 @media screen and (max-width: 389px){
   .projet{
     font-family: Roboto;
-    color: #ffffff;
+    color: #b8babc;
     font-size: 25px;
     line-height: 2rem;
     text-align: center;
+  }
+  #title{
+    color: white;
   }
 }

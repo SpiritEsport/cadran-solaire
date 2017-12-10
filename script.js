@@ -1,3 +1,4 @@
+// script pour l'affichage automatique
 var i = 0;
 var text = 'Bienvenue sur le site';
 var speed = 80;

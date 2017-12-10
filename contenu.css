@@ -15,7 +15,7 @@
   text-align: center;
 }
 }
-@@media screen and (max-width: 389px){
+@media screen and (max-width: 389px){
   .projet{
     font-family: Roboto;
     color: #ffffff;
